@@ -18,17 +18,28 @@ Spatie is a webdesign agency based in Antwerp, Belgium. You'll find an overview 
 
 ## Install
 
-**Note:** Remove this paragraph if you are building a public package
-This package is custom built for [Spatie](https://spatie.be) projects and is therefore not registered on packagist.
-In order to install it via composer you must specify this extra repository in `composer.json`:
+**Private package installation**
 
-```json
-"repositories": [ { "type": "composer", "url": "https://satis.spatie.be/" } ]
+This package is custom built for [Spatie](https://spatie.be) projects and is therefore not registered on packagist.
+In order to install it via npm you have to go through out registry:
+
+```bash
+npm set registry https://npm.spatie.be
+npm set ca null
 ```
 
-You can install the package via composer:
-``` bash
-$ composer require spatie/:package_name
+Or you can require the package straight from Github:
+
+```bash
+npm install spatie-custom/:package_name
+```
+
+**Public package installation**
+
+You can install the package via npm:
+
+```bash
+$ npm install :package_name
 ```
 
 ## Usage
@@ -46,7 +57,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 ## Testing
 
 ``` bash
-$ composer test
+$ npm run test
 ```
 
 ## Contributing
