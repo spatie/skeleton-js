@@ -7,7 +7,7 @@
 
 **Note:** 
 - Replace ```:author_name``` ```:author_username``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [package.json](package.json) files.
-- Optional: Replace repository urls in [package.json](package.json) from `https://github.com/spatie/` to `https://github.com/spatie-custom`, if needed.
+- Optional: Replace repository urls in [package.json](package.json) and [README.md](README.md) badges from `github.com/spatie/` to `github.com/spatie-custom`, if needed.
 - Don't forget to choose your .eslintrc!
 - **Delete this list**
 
