@@ -5,9 +5,11 @@
 [![Build Status](https://img.shields.io/travis/spatie/:package_name/master.svg?style=flat-square)](https://travis-ci.org/spatie/:package_name)
 [![Code Climate](https://img.shields.io/codeclimate/github/spatie/:package_name.svg?style=flat-square)](https://img.shields.io/codeclimate/github/spatie/:package_name.svg)
 
-**Note:** Replace ```:author_name``` ```:author_username``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
-
-**Don't forget to choose your .eslintrc!**
+**Note:** 
+- Replace ```:author_name``` ```:author_username``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [package.json](package.json) files.
+- Optional: Replace repository urls in [package.json](package.json) from `https://github.com/spatie/` to `https://github.com/spatie-custom`, if needed.
+- Don't forget to choose your .eslintrc!
+- **Delete this list**
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -64,7 +66,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover any security related issues, please email freek@spatie.be instead of using the issue tracker.
+If you discover any security related issues, please contact [:author_name](https://github.com/:author_username) instead of using the issue tracker.
 
 ## Credits
 
