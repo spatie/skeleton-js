@@ -2,13 +2,13 @@
 
 [![Latest Version on NPM](https://img.shields.io/npm/v/:package_name.svg?style=flat-square)](https://npmjs.com/package/:package_name)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/spatie/:package_name/master.svg?style=flat-square)](https://travis-ci.org/spatie/:package_name)
-[![Code Climate](https://img.shields.io/codeclimate/github/spatie/:package_name.svg?style=flat-square)](https://img.shields.io/codeclimate/github/spatie/:package_name.svg)
+[![Build Status](https://img.shields.io/travis/:github_oranization/:package_name/master.svg?style=flat-square)](https://travis-ci.org/:github_oranization/:package_name)
+[![Code Climate](https://img.shields.io/codeclimate/github/:github_oranization/:package_name.svg?style=flat-square)](https://img.shields.io/codeclimate/github/:github_oranization/:package_name.svg)
 
-**Note:** 
-- Replace ```:author_name``` ```:author_username``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [package.json](package.json) files.
-- Optional: Replace repository urls in [package.json](package.json) and [README.md](README.md) badges from `github.com/spatie/` to `github.com/spatie-custom`, if needed.
-- Don't forget to choose your .eslintrc!
+**Don't forget:** 
+- Replace ```:author_name``` ```:author_username``` ```:package_name``` ```:package_description``` ```:github_organization``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [package.json](package.json) files.
+- Choose your ```CONTRIBUTING```
+- Choose your ```.eslintrc```
 - **Delete this list**
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
