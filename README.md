@@ -20,7 +20,7 @@ Spatie is a webdesign agency based in Antwerp, Belgium. You'll find an overview 
 
 **Private package installation**
 
-This package is custom built for [Spatie](https://spatie.be) projects and is therefore not registered on packagist.
+This package is custom built for [Spatie](https://spatie.be) projects and is therefore not registered on npm.
 In order to install it via npm you have to go through out registry:
 
 ```bash
