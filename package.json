@@ -2,7 +2,7 @@
   "name": ":package_name",
   "version": "1.0.0",
   "description": ":package_description",
-  "main": "lib/:package_name.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "gulp test",
     "prepublish": "gulp test && gulp build"
