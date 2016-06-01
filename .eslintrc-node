@@ -6,7 +6,9 @@
         "no-console": 0,
         "quotes": [2, "single"],
         "semi": [2, "always"],
-        "strict": [2, "global"]
+        "sort-imports": ["error", { "ignoreCase": true }],
+        "space-before-function-paren": ["error", { "anonymous": "always", "named": "never" }],
+        "strict": [2, "never"]
     },
     "ecmaFeatures": {
         "modules": true

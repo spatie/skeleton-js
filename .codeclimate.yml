@@ -5,4 +5,4 @@ ratings:
    paths:
        - src/**/*
 exclude_paths:
-    - lib/**/*
+    - dist/**/*
