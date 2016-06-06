@@ -10,8 +10,9 @@
         "space-before-function-paren": ["error", { "anonymous": "always", "named": "never" }],
         "strict": [2, "never"]
     },
-    "ecmaFeatures": {
-        "modules": true
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
     },
     "env": {
         "es6": true,
