@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/:github_organization/:package_name/master.svg?style=flat-square)](https://travis-ci.org/:github_organization/:package_name)
 [![Code Climate](https://img.shields.io/codeclimate/github/:github_organization/:package_name.svg?style=flat-square)](https://img.shields.io/codeclimate/github/:github_organization/:package_name.svg)
 
-**Don't forget:** 
+**Don't forget:**
 - Replace ```:author_name``` ```:author_username``` ```:package_name``` ```:package_description``` ```:github_organization``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [package.json](package.json) files.
 - Choose your ```CONTRIBUTING```
 - Choose your ```.eslintrc```
@@ -44,7 +44,7 @@ $ npm install :package_name
 
 ## Usage
 
-```es6
+```js
 const myPackage = require('my-package');
 
 myPackage.doStuff();
