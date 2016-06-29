@@ -1,6 +1,6 @@
 {
   "name": ":package_name",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": ":package_description",
   "main": "dist/index.js",
   "jsnext:main": "src/index.js",
