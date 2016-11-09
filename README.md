@@ -16,6 +16,14 @@ PSRs you support to avoid any confusion with users and contributors.
 
 Spatie is a webdesign agency based in Antwerp, Belgium. You'll find an overview of all our open source projects [on our website](https://spatie.be/opensource).
 
+## Postcardware
+
+You're free to use this package (it's [MIT-licensed](LICENSE.md)), but if it makes it to your production environment you are required to send us a postcard from your hometown, mentioning which of our package(s) you are using.
+
+Our address is: Spatie, Samberstraat 69D, 2060 Antwerp, Belgium.
+
+The best postcards will get published on the open source page on our website.
+
 ## Install
 
 **Private package installation**
@@ -31,15 +39,15 @@ npm set ca null
 Or you can require the package straight from Github:
 
 ```bash
-npm install spatie-custom/:package_name
+yarn add spatie-custom/:package_name
 ```
 
 **Public package installation**
 
-You can install the package via npm:
+You can install the package via yarn:
 
 ```bash
-$ npm install :package_name
+$ yarn add :package_name
 ```
 
 ## Usage
