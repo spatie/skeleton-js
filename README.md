@@ -29,7 +29,7 @@ The best postcards will get published on the open source page on our website.
 **Private package installation**
 
 This package is custom built for [Spatie](https://spatie.be) projects and is therefore not registered on npm.
-In order to install it via npm you have to go through out registry:
+In order to install it via yarn you have to go through out registry:
 
 ```bash
 npm set registry https://npm.spatie.be
