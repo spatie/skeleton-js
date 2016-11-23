@@ -3,7 +3,6 @@
 [![Latest Version on NPM](https://img.shields.io/npm/v/:package_name.svg?style=flat-square)](https://npmjs.com/package/:package_name)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/:github_organization/:package_name/master.svg?style=flat-square)](https://travis-ci.org/:github_organization/:package_name)
-[![Code Climate](https://img.shields.io/codeclimate/github/:github_organization/:package_name.svg?style=flat-square)](https://img.shields.io/codeclimate/github/:github_organization/:package_name.svg)
 
 **Don't forget:**
 Replace ```:author_name``` ```:author_username``` ```:package_name``` ```:package_description``` ```:github_organization``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [package.json](package.json) files.
