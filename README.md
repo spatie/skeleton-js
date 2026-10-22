@@ -1,6 +1,4 @@
 
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # :package_name
 
 [![Latest Version on NPM](https://img.shields.io/npm/v/:package_name.svg?style=flat-square)](https://npmjs.com/package/:package_name)
@@ -15,7 +13,7 @@ PSRs you support to avoid any confusion with users and contributors.
 
 ## Support us
 
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/skeleton-js.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/skeleton-js)
+[<img src="https://spatie.be/github-ad-image/skeleton-js.jpg" width="419px" />](https://spatie.be/github-ad-click/skeleton-js)
 
 We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
 
